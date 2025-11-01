@@ -42,8 +42,8 @@
 
 ---
 
-## 🏗️ Project Structure
 
+```
 ### Application Routes Map
 
 /dashboard
@@ -58,7 +58,7 @@
 ├── /users         # User Management (Super Admin Only)
 ├── /payments      # Payment Methods (Super Admin Only)
 └── /printers      # Printer Management (Super Admin Only)
-
+```
 ---
 
 ## 🖼️ System Screenshots
