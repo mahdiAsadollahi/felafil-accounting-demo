@@ -46,7 +46,6 @@
 
 ### Application Routes Map
 
-```text
 /dashboard
 ├── /main          # Main Dashboard (Managers)
 ├── /cashier       # POS Interface (All Roles)
@@ -59,17 +58,6 @@
 ├── /users         # User Management (Super Admin Only)
 ├── /payments      # Payment Methods (Super Admin Only)
 └── /printers      # Printer Management (Super Admin Only)
-```
-````
-
-### Routing & Access Control System
-
-```javascript
-// Example of Route Protection System
-<ProtectedRoute allowedRoles={["superadmin", "branch_manager"]}>
-  <ProductManagement />
-</ProtectedRoute>
-```
 
 ---
 
