@@ -1,5 +1,3 @@
-````markdown
-<div align="center">
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -10,7 +8,7 @@
 
 🌐 [Felafil Website](https://felafil.ir) | 📧 [Contact Us](mailto:info@felafil.ir)
 
-</div>
+---
 
 ## 📋 Table of Contents
 
@@ -132,15 +130,9 @@ This system is developed with **high security standards** and includes:
 
 ---
 
-<div align="center">
 
 **Developed for** 🍔 **Felafil Restaurant Chain**
 
 🌐 [felafil.ir](https://felafil.ir) 
 
-</div>
-```
 
-```
-
-```
